@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Vragger Community Project.
-- 🌱 I’m currently learning Flutter, JavaScript, Python.
+- 🔭 I’m currently working on Vragger Project.
+- 🌱 I’m currently learning Flutter, JavaScript.
 - 👯 I’m looking to collaborate on vragger.com
 - 🤔 I’m looking for help with Flutter.
 - 💬 Ask me about Python.
-- ⚡ Fun fact: Engineer, Teacher, Writer, Learner
+- ⚡ Fun fact: Engineer, Instructor, Writer, Learner, Orator.
 - 📫 How to reach me: Search on Google - PuneetShivaay
 
 <!--
