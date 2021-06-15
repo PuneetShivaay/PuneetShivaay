@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Vragger Project.
+- 🔭 I’m currently working on Vragger Project (vragger.com).
 - 🌱 I’m currently learning Flutter, JavaScript.
 - 👯 I’m looking to collaborate on vragger.com
 - 🤔 I’m looking for help with Flutter.
