@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a FUll Stack Engineer.
+- 🔭 I’m currently working as a Full Stack Engineer.
 - 🌱 I’m currently learning Java, Flutter, JavaScript.
 - 👯 I’m looking to collaborate on vragger
 - 🤔 I’m looking for help with Flutter.
