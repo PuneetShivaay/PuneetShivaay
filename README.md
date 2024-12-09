@@ -2,25 +2,30 @@ Hi there!  I'm Puneet Kumar, a passionate Software Engineer with 4+ years of exp
 
 ## Key Skills:
 
-JavaScript (React, Node.js)
-Python (Machine Learning)
-Flutter
-Full-Stack Development
-Cloud Computing (AWS, GCP)
-Version Control (Git, GitHub)
-Databases (MySQL, Firebase)
-Problem-Solving
-Teamwork
+JavaScript (React, Node.js), 
+Python (Machine Learning), 
+Flutter, 
+Full-Stack Development, 
+Cloud Computing (AWS, GCP), 
+Version Control (Git, GitHub), 
+Databases (MySQL, Firebase), 
+Problem-Solving, 
+Teamwork, 
 Communication
 
 ## Experience:
 
 Worked as a Full Stack Developer & Chrome Web Store Specialist at Cognizant, managing and enhancing thousands of Chrome extensions and building web apps.
+
 Led the development of an online AI-Enabled Exam Preparation Platform and multiple websites at Yontech Solutions.
-Projects:
+
+Founded Guruphoria and Otical.
+
+## Projects:
 
 This repository showcases some of my personal projects, including a Magic Match Game built with React, a Super Market Management System using React and Spring Boot, and a Deep Learning Based Chatbot for Medical Assistance.
-Connect with me:
+
+## Connect with me:
 
 LinkedIn: https://www.linkedin.com/in/puneetshivaay/ 
 
