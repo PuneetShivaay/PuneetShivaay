@@ -15,7 +15,7 @@ Communication
 
 ## Experience:
 
-Worked as a Full Stack Developer & Chrome Web Store Specialist at Cognizant, managing and enhancing thousands of Chrome extensions and building web apps.
+Worked as a Full Stack Developer & Chrome Web Store Specialist at MNC, managing and enhancing thousands of Chrome extensions and building web apps.
 
 Led the development of an online AI-Enabled Exam Preparation Platform and multiple websites at Yontech Solutions.
 
