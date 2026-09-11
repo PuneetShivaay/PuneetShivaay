@@ -1,41 +1,55 @@
-# Hi, I'm Puneet 👋
+<h1 align="center">Hi 👋, I'm Puneet Kumar</h1>
+<h3 align="center">Software Engineer | React Developer | Full Stack Enthusiast</h3>
 
-## About Me
-💻 Software Engineer at Cognizant
+<p align="center">
+  <a href="https://puneetshivaay.vercel.app">🌐 Portfolio</a> •
+  <a href="https://github.com/PuneetShivaay">GitHub</a>
+</p>
 
-🚀 Working on DIRECTV applications
+## 🚀 About Me
 
-🌱 Currently learning:
-- Advanced JavaScript
-- React
-- Node.js
-- System Design
-- AI-assisted Development
+- 💻 Software Engineer at Cognizant
+- 📺 Working on enterprise applications and production support
+- 🌱 Currently learning React, Node.js, System Design, and AI-assisted development
+- ⚡ Interested in Full Stack Development, Cloud, and GenAI
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Frontend:
-React, JavaScript, TypeScript, HTML, CSS
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
-Backend:
-Node.js, Express
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
+</p>
 
-Tools:
-Git, GitHub, Jira, Splunk, Dynatrace
+## 🌐 Portfolio
 
-## Projects
+👉 https://puneetshivaay.vercel.app
 
-### Appointment Management
-Working on appointment scheduling and rescheduling applications for DIRECTV.
+## 🚀 Featured Projects
 
-### AI Coding Projects
-Built projects using natural language prompts and AI-assisted development tools.
+### Personal Portfolio
+A responsive portfolio website showcasing skills, projects, and experience.
 
-## GitHub Stats
+### React Applications
+Frontend applications built using React, JavaScript, and TypeScript.
 
-![GitHub Stats](https://github-readme-/api?username=PuneetShivaay&show_icons=true
+### AI-Assisted Projects
+Projects created using AI-assisted development tools and modern web technologies.
 
-## Connect With Me
+## 📫 Connect With Me
 
-LinkedIn: Your LinkedIn URL
-GitHub: https://github.com/PuneetShivaay
+- GitHub: https://github.com/PuneetShivaay
+- Portfolio: https://puneetshivaay.vercel.app
+- LinkedIn: https://www.linkedin.com/in/puneetshivaay
+
+---
+⭐ Always learning and building better software.
