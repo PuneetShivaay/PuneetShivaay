@@ -150,15 +150,3 @@ This project represents my earlier exploration of Machine Learning and AI.
 🤖 AI Agents & Agentic AI · 🧠 Large Language Models (LLMs) · 🔎 Retrieval-Augmented Generation (RAG)
 
 🔌 Model Context Protocol (MCP) · 🛠️ AI Agent SDK Development · 📊 AI Evaluation & Monitoring
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuneetShivaay&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetShivaay&layout=compact&theme=transparent&hide_border=true" />
-</p>
