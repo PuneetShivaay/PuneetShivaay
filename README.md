@@ -6,7 +6,7 @@ I am a Software Engineer with **5+ years of experience** building scalable web a
 
 My primary focus is **Frontend Engineering**, where I work with **React.js, Next.js, JavaScript, and TypeScript** to build reusable, maintainable, and user-focused applications.
 
-I have experience working on projects for **enterprise-scale clients including DirecTV and Google ecosystems**, with a focus on frontend architecture, reusable UI components, API integration, authentication, and application performance.
+I have experience working on projects for **enterprise-scale clients including DirecTV and Google ecosystems**, with a focus on frontend architecture, reusable UI components, REST API integration, authentication, and application performance.
 
 Alongside Software Engineering, I am actively exploring **AI Engineering and Agentic AI**, including AI agents, RAG systems, LLM applications, MCP, and agent SDK development.
 
@@ -14,14 +14,14 @@ Alongside Software Engineering, I am actively exploring **AI Engineering and Age
 
 ## 🚀 About Me
 
-* 💼 Software Engineer with **5+ years of professional experience**
-* ⚛️ Specialized in **React.js, Next.js, JavaScript & TypeScript**
-* 🧩 Experienced in building **reusable UI architectures and component libraries**
-* 🔌 Comfortable with **REST API integration and enterprise authentication**
-* 🏢 Experience working on enterprise applications and large-scale ecosystems
-* 🔍 Interested in application performance, debugging, and production issue analysis
-* 🤖 Currently exploring **AI Engineering, Agentic AI, RAG, MCP & AI Agents**
-* 🌱 Always focused on learning by building real projects
+- 💼 Software Engineer with **5+ years of professional experience**
+- ⚛️ Specialized in **React.js, Next.js, JavaScript & TypeScript**
+- 🧩 Experienced in building **reusable UI architectures and component libraries**
+- 🔌 Comfortable with **REST API integration and enterprise authentication**
+- 🏢 Experience working on enterprise applications and large-scale ecosystems
+- 🔍 Interested in application performance, debugging, and production issue analysis
+- 🤖 Currently exploring **AI Engineering, Agentic AI, RAG, MCP & AI Agents**
+- 🌱 Always focused on learning by building real projects
 
 ---
 
@@ -65,83 +65,41 @@ Alongside Software Engineering, I am actively exploring **AI Engineering and Age
 
 ---
 
-# 💼 Professional Focus
+## 🌟 Featured Projects
 
-## ⚛️ Frontend Engineering
+### 📁 Online File Sharing Portal
 
-My primary area of focus is building modern and scalable web applications using:
-
-* React.js
-* Next.js
-* JavaScript & TypeScript
-* Component-based architecture
-* Context API and state management
-* REST API integration
-* Authentication and SSO integration
-* Reusable UI component development
-* Application performance optimization
-
-I enjoy taking a requirement and transforming it into a clean, reusable, and maintainable user interface.
-
----
-
-# 🌟 Featured Projects
-
-## 📁 Online File Sharing Portal
-
-A web-based file sharing application built using **HTML, CSS, JavaScript, Firebase Authentication, Firebase Storage, and Firestore**.
-
-Users can securely access the portal and share files through the application.
+A web-based file sharing application built using **JavaScript, Firebase Authentication, Firebase Storage, and Firestore**.
 
 🔗 Repository: https://github.com/PuneetShivaay/Online-File-Sharing-Portal
 
 ---
 
-## 🐾 PetMets
+### 🐾 PetMets
 
-A platform focused on pet-related services and interactions.
+A pet-focused platform built using modern web technologies and Firebase services.
 
-Built using modern web technologies with Firebase services for authentication and real-time functionality.
-
-🔗 Website: https://petmets.in 
-🔗 GitHub: https://github.com/PuneetShivaay
+🔗 Website: https://petmets.in
 
 ---
 
-## 🤖 AI Agent SDK
+### 🧠 SynapseFlow
 
-Currently working on an open-source **AI Agent SDK built from scratch using JavaScript/TypeScript**.
+An open-source project exploring **AI agent architecture and workflows using TypeScript**.
 
-My focus is to understand and build the core concepts behind AI agents instead of relying completely on existing agent frameworks.
+Focused on concepts such as agent workflows, tool execution, memory, and extensible agent architecture.
 
-Areas being explored:
-
-* Agent architecture
-* Tool execution
-* Agent workflows
-* Model integration
-* Context and memory concepts
-* Extensible SDK design
-
-🔗 GitHub: https://github.com/PuneetShivaay
+🔗 Repository: https://github.com/PuneetShivaay/SynapseFlow
 
 ---
 
-## 📤 Convert Website Into App
+### 🔎 CourseAI
 
-A Flutter-based project that helps convert a website into a mobile application using WebView.
+An AI-powered project focused on applying **Advanced RAG techniques** to course content and improving information retrieval.
 
-🔗 Repository: https://github.com/PuneetShivaay/Convert-Website-into-App
+Explores concepts including retrieval strategies, query processing, and context-aware answers.
 
----
-
-## 🤖 Deep Learning Based Chatbot
-
-A Python-based Deep Learning project for medical assistance through a chatbot interface.
-
-This project represents my earlier exploration of Machine Learning and AI.
-
-🔗 Repository: https://github.com/PuneetShivaay/Deep-Learning-Based-Chatbot-For-Medical-Assistance
+🔗 Repository: https://github.com/PuneetShivaay/CourseAI
 
 ---
 
@@ -150,3 +108,9 @@ This project represents my earlier exploration of Machine Learning and AI.
 🤖 AI Agents & Agentic AI · 🧠 Large Language Models (LLMs) · 🔎 Retrieval-Augmented Generation (RAG)
 
 🔌 Model Context Protocol (MCP) · 🛠️ AI Agent SDK Development · 📊 AI Evaluation & Monitoring
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Explore my portfolio:** https://puneetshivaay.vercel.app/
