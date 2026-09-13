@@ -27,27 +27,41 @@ Alongside Software Engineering, I am actively exploring **AI Engineering and Age
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui" />
-</p>
+### ⚛️ Frontend
 
-### Backend & APIs
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,spring" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-### Cloud, Tools & Platforms
+### ⚙️ Backend & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gcp,firebase,jenkins" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring" />
 
-### Also Worked With
+</td>
+</tr>
 
-`Context API` · `REST APIs` · `SSO` · `SAML` · `Azure App Proxy` · `Dynatrace` · `Firebase` · `Google Apps Script`
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,gcp,firebase,jenkins" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Also Worked With
+
+`Context API` · `REST APIs` · `SSO` · `SAML` · `Azure App Proxy` · `Dynatrace` · `Google Apps Script`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,8 +103,7 @@ A platform focused on pet-related services and interactions.
 
 Built using modern web technologies with Firebase services for authentication and real-time functionality.
 
-🔗 Website: https://petmets.in
-
+🔗 Website: https://petmets.in 
 🔗 GitHub: https://github.com/PuneetShivaay
 
 ---
@@ -132,17 +145,11 @@ This project represents my earlier exploration of Machine Learning and AI.
 
 ---
 
-# 🧠 Currently Exploring
+## 🤖 Currently Exploring
 
-I am currently expanding my knowledge in:
+🤖 AI Agents & Agentic AI · 🧠 Large Language Models (LLMs) · 🔎 Retrieval-Augmented Generation (RAG)
 
-* 🤖 AI Agents
-* 🧠 Large Language Models (LLMs)
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🔌 Model Context Protocol (MCP)
-* 🛠️ AI Agent SDK development
-* 📊 AI evaluation and monitoring
-* ⚛️ Advanced React and Next.js concepts
+🔌 Model Context Protocol (MCP) · 🛠️ AI Agent SDK Development · 📊 AI Evaluation & Monitoring
 
 ---
 
@@ -159,28 +166,3 @@ I am currently expanding my knowledge in:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetShivaay&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
----
-
-# 🌐 Let's Connect
-
-<p>
-
-<a href="https://puneetshivaay.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
-</a>
-
-<a href="https://github.com/PuneetShivaay" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-PuneetShivaay-black?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
-### 💡 Engineering Philosophy
-
-> Build with simplicity.
-> Focus on understanding the fundamentals.
-> Write reusable and maintainable code.
-> Keep learning and keep building. 🚀
