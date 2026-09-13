@@ -1,55 +1,186 @@
-<h1 align="center">Hi 👋, I'm Puneet Kumar</h1>
-<h3 align="center">Software Engineer | React Developer | Full Stack Enthusiast</h3>
+# Hi 👋, I'm Puneet Kumar
 
-<p align="center">
-  <a href="https://puneetshivaay.vercel.app">🌐 Portfolio</a> •
-  <a href="https://github.com/PuneetShivaay">GitHub</a>
-</p>
+### Software Engineer | 5+ Years Experience | React.js | Next.js | JavaScript | TypeScript
+
+I am a Software Engineer with **5+ years of experience** building scalable web applications and enterprise solutions.
+
+My primary focus is **Frontend Engineering**, where I work with **React.js, Next.js, JavaScript, and TypeScript** to build reusable, maintainable, and user-focused applications.
+
+I have experience working on projects for **enterprise-scale clients including DirecTV and Google ecosystems**, with a focus on frontend architecture, reusable UI components, API integration, authentication, and application performance.
+
+Alongside Software Engineering, I am actively exploring **AI Engineering and Agentic AI**, including AI agents, RAG systems, LLM applications, MCP, and agent SDK development.
+
+---
 
 ## 🚀 About Me
 
-- 💻 Software Engineer at Cognizant
-- 📺 Working on enterprise applications and production support
-- 🌱 Currently learning React, Node.js, System Design, and AI-assisted development
-- ⚡ Interested in Full Stack Development, Cloud, and GenAI
-
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
-</p>
-
-## 🌐 Portfolio
-
-👉 https://puneetshivaay.vercel.app
-
-## 🚀 Featured Projects
-
-### Personal Portfolio
-A responsive portfolio website showcasing skills, projects, and experience.
-
-### React Applications
-Frontend applications built using React, JavaScript, and TypeScript.
-
-### AI-Assisted Projects
-Projects created using AI-assisted development tools and modern web technologies.
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/PuneetShivaay
-- Portfolio: https://puneetshivaay.vercel.app
-- LinkedIn: https://www.linkedin.com/in/puneetshivaay
+* 💼 Software Engineer with **5+ years of professional experience**
+* ⚛️ Specialized in **React.js, Next.js, JavaScript & TypeScript**
+* 🧩 Experienced in building **reusable UI architectures and component libraries**
+* 🔌 Comfortable with **REST API integration and enterprise authentication**
+* 🏢 Experience working on enterprise applications and large-scale ecosystems
+* 🔍 Interested in application performance, debugging, and production issue analysis
+* 🤖 Currently exploring **AI Engineering, Agentic AI, RAG, MCP & AI Agents**
+* 🌱 Always focused on learning by building real projects
 
 ---
-⭐ Always learning and building better software.
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,spring" />
+</p>
+
+### Cloud, Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,firebase,jenkins" />
+</p>
+
+### Also Worked With
+
+`Context API` · `REST APIs` · `SSO` · `SAML` · `Azure App Proxy` · `Dynatrace` · `Firebase` · `Google Apps Script`
+
+---
+
+# 💼 Professional Focus
+
+## ⚛️ Frontend Engineering
+
+My primary area of focus is building modern and scalable web applications using:
+
+* React.js
+* Next.js
+* JavaScript & TypeScript
+* Component-based architecture
+* Context API and state management
+* REST API integration
+* Authentication and SSO integration
+* Reusable UI component development
+* Application performance optimization
+
+I enjoy taking a requirement and transforming it into a clean, reusable, and maintainable user interface.
+
+---
+
+# 🌟 Featured Projects
+
+## 📁 Online File Sharing Portal
+
+A web-based file sharing application built using **HTML, CSS, JavaScript, Firebase Authentication, Firebase Storage, and Firestore**.
+
+Users can securely access the portal and share files through the application.
+
+🔗 Repository: https://github.com/PuneetShivaay/Online-File-Sharing-Portal
+
+---
+
+## 🐾 PetMets
+
+A platform focused on pet-related services and interactions.
+
+Built using modern web technologies with Firebase services for authentication and real-time functionality.
+
+🔗 Website: https://petmets.in
+
+🔗 GitHub: https://github.com/PuneetShivaay
+
+---
+
+## 🤖 AI Agent SDK
+
+Currently working on an open-source **AI Agent SDK built from scratch using JavaScript/TypeScript**.
+
+My focus is to understand and build the core concepts behind AI agents instead of relying completely on existing agent frameworks.
+
+Areas being explored:
+
+* Agent architecture
+* Tool execution
+* Agent workflows
+* Model integration
+* Context and memory concepts
+* Extensible SDK design
+
+🔗 GitHub: https://github.com/PuneetShivaay
+
+---
+
+## 📤 Convert Website Into App
+
+A Flutter-based project that helps convert a website into a mobile application using WebView.
+
+🔗 Repository: https://github.com/PuneetShivaay/Convert-Website-into-App
+
+---
+
+## 🤖 Deep Learning Based Chatbot
+
+A Python-based Deep Learning project for medical assistance through a chatbot interface.
+
+This project represents my earlier exploration of Machine Learning and AI.
+
+🔗 Repository: https://github.com/PuneetShivaay/Deep-Learning-Based-Chatbot-For-Medical-Assistance
+
+---
+
+# 🧠 Currently Exploring
+
+I am currently expanding my knowledge in:
+
+* 🤖 AI Agents
+* 🧠 Large Language Models (LLMs)
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🔌 Model Context Protocol (MCP)
+* 🛠️ AI Agent SDK development
+* 📊 AI evaluation and monitoring
+* ⚛️ Advanced React and Next.js concepts
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PuneetShivaay&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuneetShivaay&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetShivaay&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Let's Connect
+
+<p>
+
+<a href="https://puneetshivaay.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
+</a>
+
+<a href="https://github.com/PuneetShivaay" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-PuneetShivaay-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+### 💡 Engineering Philosophy
+
+> Build with simplicity.
+> Focus on understanding the fundamentals.
+> Write reusable and maintainable code.
+> Keep learning and keep building. 🚀
