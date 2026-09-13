@@ -67,6 +67,16 @@ Alongside Software Engineering, I am actively exploring **AI Engineering and Age
 
 ## 🌟 Featured Projects
 
+### 🌐 Convert Website into App
+
+A Flutter-based WebView template for converting responsive websites into cross-platform mobile applications.
+
+⭐ Open-source project with **26 stars and 14 forks**.
+
+🔗 Repository: https://github.com/PuneetShivaay/Convert-Website-into-App
+
+---
+
 ### 📁 Online File Sharing Portal
 
 A web-based file sharing application built using **JavaScript, Firebase Authentication, Firebase Storage, and Firestore**.
