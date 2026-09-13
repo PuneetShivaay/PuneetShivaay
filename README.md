@@ -153,14 +153,10 @@ This project represents my earlier exploration of Machine Learning and AI.
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PuneetShivaay&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuneetShivaay&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
